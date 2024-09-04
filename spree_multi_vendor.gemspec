@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.version     = SpreeMultiVendor.version
   s.summary     = 'Spree Commerce multi vendor marketplace extension'
   s.description = 'Spree Commerce multi vendor marketplace extension'
-  s.required_ruby_version = '>= 3.0'
+  s.required_ruby_version = '>= 2.7.2'
 
   s.author    = 'Spark Solutions'
   s.email     = 'we@sparksolutions.co'
